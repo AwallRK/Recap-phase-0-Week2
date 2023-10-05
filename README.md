@@ -1,6 +1,5 @@
 # Recap-phase-0-Week2
 
-# Recap Week 2
 
 - [Functions](#functions)
   - [Modular Functions](#modular-functions)
